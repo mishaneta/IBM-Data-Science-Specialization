@@ -1,5 +1,5 @@
 env/*
-dash/*
+docs/*
 .DS_Store
 .ipynb_checkpoints
 *.pptx
