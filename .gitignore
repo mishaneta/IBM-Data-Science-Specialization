@@ -2,4 +2,4 @@ env/*
 dash/*
 .DS_Store
 .ipynb_checkpoints
-ds-capstone-template-coursera.pptx
+*.pptx
