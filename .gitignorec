@@ -3,4 +3,3 @@ dash/*
 .DS_Store
 .ipynb_checkpoints
 *.pptx
-~$*.pptx
